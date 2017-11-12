@@ -1,0 +1,16 @@
+.calculator {
+	float:left;
+	width: 30%;
+	border: 1px solid black;
+	text-align: center;
+	background-color: #FFFFD1;
+}
+.operator {
+}
+input {
+	padding:20px;
+	margin: 5px;
+	border: 1px solid #CCCCCC;
+	text-align: center;
+}
+
